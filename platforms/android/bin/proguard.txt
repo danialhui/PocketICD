@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.cyanhui.pocketicd.Pocket_ICD_10 { <init>(...); }
+
